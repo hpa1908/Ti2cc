@@ -1,1 +1,0 @@
-Nesse exercício, houveram algumas dificuldades para o entendimento do funcionamento da IDE, mas o programa foi feito tranquilamente com eficiência.
